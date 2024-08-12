@@ -8,10 +8,10 @@ This project aims to implement various data structures using PHP. The goal is to
    ```bash
    git clone https://github.com/yourusername/data-structures-php.git
 
-Usage
+## Usage
 To use the implemented data structures, you can include the respective PHP files in your project and instantiate the classes. For example, to use the data-structure implementation:
 
-Contributing
+## Contributing
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
 Make your changes.
@@ -21,7 +21,7 @@ Create a new Pull Request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 PHP Documentation
 Stack Overflow for helpful discussions and solutions
 Open-source libraries and tools used in the project
