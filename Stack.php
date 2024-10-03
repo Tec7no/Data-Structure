@@ -37,26 +37,3 @@ class Car {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stack Example</title>
-</head>
-<body>
-    <pre>
-        <?php 
-        $stack = new Car();
-        $stack->push(9);
-        $stack->push(3);
-        $stack->display();
-        $stack->push(5);
-        $stack->display();
-        $stack->pop();
-        $stack->display();
-        $stack->peek();
-        ?>
-    </pre>
-</body>
-</html>
